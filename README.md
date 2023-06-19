@@ -1,0 +1,2 @@
+# AppwritePS
+Powershellmodule for Appwrite
